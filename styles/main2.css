@@ -16,6 +16,7 @@ section h2 {
 
 footer {
     margin-top: 4rem;
+    align-content: center;
     background-color: #f7f7f7;
     padding: 4rem;
     color: gray;
@@ -193,6 +194,9 @@ footer {
     margin-top: -5rem;
     padding-top: 5rem;
 }
+.card-group{
+width: 80%;
+}
 
 .card {
     margin-top: 1rem;
@@ -283,12 +287,12 @@ font-size: 1.5rem;
         font-size: 2.5rem;
     }
     .card-group {
-        height: auto;
+        margin:auto;
 
     }
     .card {
-        width: 6rem;
-        height: 6rem;
+        width: 5rem;
+        height: 5rem;
         display: inline-block;
     }
     .card-title {
