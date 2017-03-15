@@ -250,7 +250,7 @@ footer {
         font-size: 1rem;
     }
     #con {
-        background-image: url("../images/jason-thomas-186778.jpg");
+        background-image: url("../images/jason-thomas-186778s.jpg");
         background-repeat: no-repeat;
     }
     #description {
@@ -287,13 +287,10 @@ footer {
     footer {
         padding: 0px;
     }
-    .card-group {
-        /*margin: auto;*/
-    }
+
     .card {
         width: 5rem;
         height: 5rem;
-        /*display: inline-block;*/
     }
     .card-title {
         display: none;
