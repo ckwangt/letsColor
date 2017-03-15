@@ -245,3 +245,22 @@ footer {
         width: 100%;
     }
 }
+
+
+@media only screen and (max-width: 576px){
+.display-4{
+font-size: 2rem;
+}
+h2{
+  font-size: 1rem;
+}
+
+.lead{
+font-size: 1rem;
+}
+
+#h2title{
+
+  font-size: 1rem;
+}
+}
