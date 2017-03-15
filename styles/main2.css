@@ -288,12 +288,12 @@ footer {
         padding: 0px;
     }
     .card-group {
-        margin: auto;
+        /*margin: auto;*/
     }
     .card {
         width: 5rem;
         height: 5rem;
-        display: inline-block;
+        /*display: inline-block;*/
     }
     .card-title {
         display: none;
