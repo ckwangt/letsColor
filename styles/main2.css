@@ -84,7 +84,9 @@ footer {
     background-image: url("../images/jason-thomas-186778.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
-    background-size: cover;
+    background-size: auto;
+      background-repeat: no-repeat;
+      background-color: rgb(179, 180, 201);
     -o-background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -262,5 +264,11 @@ font-size: 1rem;
 #h2title{
 
   font-size: 1rem;
+}
+
+
+#con {
+    background-image: url("../images/jason-thomas-186778.jpg");
+
 }
 }
