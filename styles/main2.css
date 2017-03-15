@@ -80,11 +80,11 @@ footer {
     background-image: url("../images/jason-thomas-186778.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-color: rgb(179, 180, 201);
-    -o-background-size: cover;
     background-position: center;
     /*min-height: 100%;*/
 }
@@ -289,13 +289,11 @@ footer {
     }
     .card-group {
         margin: auto;
-
     }
     .card {
-        width: 3rem;
-        height: 3rem;
+        width: 5rem;
+        height: 5rem;
         display: inline-block;
-
     }
     .card-title {
         display: none;
