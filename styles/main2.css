@@ -18,7 +18,7 @@ footer {
     margin-top: 4rem;
     align-content: center;
     background-color: #f7f7f7;
-    padding: 4rem;
+    padding: 2rem;
     color: gray;
 }
 
@@ -286,13 +286,16 @@ font-size: 1.5rem;
     #price {
         font-size: 2.5rem;
     }
+
+    footer {
+        padding: 0px;
+    }
     .card-group {
         margin:auto;
-
     }
     .card {
-        width: 5rem;
-        height: 5rem;
+        width: 4rem;
+        height: 4rem;
         display: inline-block;
     }
     .card-title {
@@ -307,6 +310,7 @@ font-size: 1.5rem;
     }
 
     .card-tag{
+        display: none;
     font-size: 1rem;
 
     }
