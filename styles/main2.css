@@ -80,7 +80,7 @@ footer {
     background-image: url("../images/jason-thomas-186778.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
-    background-size: auto;
+    background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-color: rgb(179, 180, 201);
@@ -251,7 +251,7 @@ footer {
     }
     #con {
         background-image: url("../images/jason-thomas-186778.jpg");
-        background-size:cover;
+        background-repeat: no-repeat;
     }
     #description {
         font-size: 0.9rem;
