@@ -36,7 +36,7 @@ footer {
 
 #banner-fg {
     height: 100%;
-    width: 80%;
+    /*width: 80%;*/
     text-align: center;
 }
 
@@ -98,7 +98,7 @@ footer {
 
 #inallcontent{
   margin: 0 auto;
-  /*width: 80%*/
+  width: 80%
 }
 
 #How {
