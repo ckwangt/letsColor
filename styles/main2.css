@@ -201,7 +201,12 @@ footer {
 
 .card {
     margin-top: 1rem;
-    height: 40rem;
+    height: 30rem;
+}
+
+.card-block{
+height: 20rem;
+
 }
 
 .card-text {
