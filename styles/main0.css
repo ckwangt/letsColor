@@ -115,8 +115,10 @@ footer {
     /*width: 95%*/
 }
 
-#description {
+.description {
     /*height: 100%;   */
+    width: 60%;
+    margin:auto;
 }
 
 #DescriptionTitle {
@@ -286,8 +288,10 @@ height: 10rem;
         /*background-image: url("../images/jason-thomas-186778s.jpg");*/
         background-repeat: no-repeat;
     }
-    #description {
+    .description {
         font-size: 0.9rem;
+        width: 70%;
+        margin:auto;
 
     }
     #feature {
